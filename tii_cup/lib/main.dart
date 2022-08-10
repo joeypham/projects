@@ -5,7 +5,7 @@ void main() {
   runApp(
     MaterialApp( // Almost all apps will start with  this Granddaddy premade fuction
       home: Center( // All apps have to start with home widget, and followed by what happens in the home widget
-        child: Text('Hello World - test between pc and mac'), // This child text widget has been centered by the Center Widget from the line above
+        child: Text('Hello World - test between pc and mac 2022'), // This child text widget has been centered by the Center Widget from the line above
       ),
     ),
   );
